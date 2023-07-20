@@ -1,0 +1,1 @@
+This is a sample of a calculator and the fifth exercise following The Odin Project course. Skills: HTML, CSS, Javascript.
